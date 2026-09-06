@@ -1,0 +1,6 @@
+{
+  "name": "RikkaHub",
+  "description": "Native Android LLM chat client supporting multiple AI providers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
